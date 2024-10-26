@@ -32,3 +32,13 @@ img[alt="Shiina Mashiro"]:hover {
 .serif {
     font-family: "Times New Roman", serif;
 }
+
+#lmz-introduction {
+    color: black;
+    font-size: 16px;
+    margin: 15px;
+}
+
+#whylmz-img {
+    margin-right: 2em
+}
