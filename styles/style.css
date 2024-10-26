@@ -1,7 +1,13 @@
 p {
-    color: rgb(233, 10, 170);
+    color: rgb(118, 1, 85);
 }
 
 html {
-    background-color: #708b9f;
+    background-color: #b8d6ed;
+    font-size: 14px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.serif {
+    font-family: "Times New Roman", serif;
 }
