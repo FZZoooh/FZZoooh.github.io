@@ -42,3 +42,12 @@ img[alt="Shiina Mashiro"]:hover {
 #whylmz-img {
     margin-right: 2em
 }
+
+button {
+    background-color: bisque;
+    color: rgb(72, 72, 72);
+}
+
+button:hover {
+    background-color: rgb(253, 240, 224);
+}
