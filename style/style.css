@@ -51,3 +51,12 @@ button {
 button:hover {
     background-color: rgb(253, 240, 224);
 }
+
+figcaption {
+    font-size: 14px;
+    color: rgb(55, 55, 55);
+}
+
+#images {
+    display: flex;
+}
